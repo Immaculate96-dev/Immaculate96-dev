@@ -4,17 +4,12 @@
 
 ## 🌟 About Me
 
-I'm a **Software Development Student** at **WeThinkCode**, eager to learn and grow in the world of programming, and explore various programming languages and frameworks. I'm a beginner but improving every day in my software development journey.
-
-## 🔥 Skills & Learning Journey
-
-
-- **Python 🐍** - Beginner, but improving every day!
-- **Java ☕** - Just getting started with Java.
-- **Backend Development 💡** - Interested in building scalable systems.
-- **Basic Banking API 🏦** - Built using Flask
-- **Firebase 🔥** - Using it for authentication & database management.
-- **Google Calendar API 📅** - Integrating it into my booking system project.
+A software developer with hands-on experience working in Linux environments, building
+applications, and understanding how systems communicate through networking and databases.
+I’ve worked with version control, Agile teams, and containerization, which has helped me develop
+strong problem-solving and collaboration skills. I enjoy understanding how systems work end-to-
+end, from writing code to thinking about reliability, performance, and automation. I’m adaptable,
+curious, and comfortable learning new tools quickly, which allows me to contribute across different areas in IT environments.
 
 
 ## 📫 Connect with Me
